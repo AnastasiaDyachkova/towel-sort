@@ -5,7 +5,7 @@ const towelSort = require('./src/index.js');
 describe('.towelSort, should perfrom \'towelSort\'', () => {
     
     it('Should return 5', () => {
-    assert.deepEqual(towelSort(), 8);
+    assert.deepEqual(towelSort(), 5);
   });
     
 
